@@ -1,0 +1,14 @@
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\bin\Debug\net9.0\Atividade.exe
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\bin\Debug\net9.0\Atividade.deps.json
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\bin\Debug\net9.0\Atividade.runtimeconfig.json
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\bin\Debug\net9.0\Atividade.dll
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\bin\Debug\net9.0\Atividade.pdb
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\Atividade.AssemblyInfo.cs
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\Atividade.dll
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\refint\Atividade.dll
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\Atividade.pdb
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\Atividade.genruntimeconfig.cache
+C:\Users\raulm\Desktop\CLIENTE_SENAI_PROJETO\Atividade\obj\Debug\net9.0\ref\Atividade.dll
